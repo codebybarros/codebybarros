@@ -15,30 +15,44 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">Hey, Eu sou Vitor S. Barros! 👋</h2>
-
-###
+# 👤 Olá, me chamo Vitor S. Barros!
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl1aXIwOXVwbGd4cHEzNnR6bTZleWwzeDN6ZXU5azA1Y2tycHZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"  />
 
 ###
 
-<p align="left">Olá me chamo Vitor S. Barros, sou desenvolvedor Backend, atuando no desenvolvimento de APIs REST, aplicação de regras de negócio, autenticação, validação de dados e integração com bancos de dados relacionais, trabalho com Express.js, PostgreSQL e SQLite, estruturando projetos com arquitetura em camadas, código organizado e versionado com Git.</p>
+<p align="left">Sou desenvolvedor backend, com dedicação ao estudo de programação, engenharia de software e construção de sistemas robustos e escaláveis. Atualmente concentro meus esforços em aprofundar conhecimentos em tecnologias de backend, lógica de programação e boas práticas de desenvolvimento.
+
+Tenho interesse especial em arquitetura de sistemas, desenvolvimento de APIs e desempenho de aplicações. Este espaço reúne projetos, experimentos e implementações práticas que refletem minha evolução técnica e meu processo contínuo de aprendizado no desenvolvimento backend.</p>
+
+###
 
 # 💻 Tech Stack:
 
 <div align="center">
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   
 </div>
 
-# 📊 graphic:
+###
+
+# 📊 Status:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebybarros&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebybarros&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebybarros&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codebybarros&theme=darcula&utcOffset=8) |
+  | :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebybarros&theme=darcula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codebybarros&theme=darcula)](https://git.io/streak-stats) |
+  | :-: | :-: |
+  
 </div>
 
 ---
