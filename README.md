@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/codebybarros" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
   </a>
-  <a href="mailto:contatovitorsbarros@gmail.com" target="_blank">
+  <a href="https://mailto:contatovitorsbarros@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vitordsbarros" target="_blank">
