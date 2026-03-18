@@ -17,7 +17,7 @@
 
 # 👤 Olá, me chamo Vitor S. Barros!
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl1aXIwOXVwbGd4cHEzNnR6bTZleWwzeDN6ZXU5azA1Y2tycHZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjV5ZXIycGtmcGoyamp4d211OWd1eXRmdHR0YzVjM2hiZWppb2hzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ###
 
